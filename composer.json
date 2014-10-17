@@ -1,0 +1,21 @@
+{
+    "name": "harrytang/yii2-i18n",
+    "description": "Yii2 I18N",
+    "type": "yii2-extension",
+    "keywords": ["yii2"," i18n"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Harry Tang",
+            "email": "giaduy@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "harrytang\\i18n\\": ""
+        }
+    }
+}
